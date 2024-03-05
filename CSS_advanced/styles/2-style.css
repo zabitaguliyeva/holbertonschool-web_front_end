@@ -10,9 +10,7 @@ a {
 .visually-hidden {
   display: none;
 }
-.card-category {
+.card-category, .section-tagline {
   background-color: #d73953;
 }
-.section-tagline {
-  background-color: #d73953;
-}
+
