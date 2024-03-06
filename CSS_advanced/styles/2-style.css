@@ -2,15 +2,15 @@ html {
   scroll-behavior: smooth;
 }
 body {
-  background-color: #161616;
+  color: #161616;
 }
 a {
-  background-color: #161616;
+  color: #161616;
 }
 .visually-hidden {
   display: none;
 }
 .card-category, .section-tagline {
-  background-color: #d73953;
+  color: #d73953;
 }
 
