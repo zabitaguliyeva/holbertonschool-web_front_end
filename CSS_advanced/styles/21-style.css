@@ -341,14 +341,7 @@ html {
     padding: 0;
     list-style: none;
   }
-  .col-1-3{
-    width: 33.33%;
-    float: left;
-  }
-  .col-1-2{
-    width: 50%;
-    float: left;
-  }
+ 
   .footer-copyright{
     margin: 0;
     font-size: var(--font-size-small);
@@ -362,5 +355,13 @@ html {
   [class*="col-"]{
     float: left;
     padding: 0.5rem;
+  }
+  .col-1-3{
+    width: 33.33%;
+    float: left;
+  }
+  .col-1-2{
+    width: 50%;
+    float: left;
   }
   
