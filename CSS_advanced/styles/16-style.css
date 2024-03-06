@@ -275,5 +275,5 @@ html {
   }
   .container{
     width: 960px;
-   justify-content: space-between;
+    margin: auto 0;
   }
