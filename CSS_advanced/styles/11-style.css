@@ -24,7 +24,7 @@
     --line-height-big: 1.8;
 
     --section-header-align:center;
-    --section-tagline-transform:var(--font-weight-bold)
+    --section-tagline-transform:uppercase;
   }
   html {
     scroll-behavior: smooth;
@@ -64,5 +64,6 @@
     color: var(--color-primary);
     font-family: var(--font-family-title);
     text-transform: var(--section-tagline-transform);
+    font-weight: var(--font-weight-bold);
   }
   
