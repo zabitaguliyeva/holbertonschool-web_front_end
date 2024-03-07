@@ -528,8 +528,8 @@ html {
  .card-testimonial .card-quote::before{
 content: "\201C";
 position: absolute;
-left: -4.5rem;
-top: -1rem;
+left: -1rem;
+top:-4.5rem; 
 color:#efeded;
 font-size: 10rem;
 z-index: -1;
