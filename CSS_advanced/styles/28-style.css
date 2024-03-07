@@ -457,7 +457,7 @@ html {
   .header-logo{
     position: var(--header-logo-link-position);
   }
-  .header-logo a{
+  .header-logo > a{
     display: var(--header-logo-link-display);
     position: var(--header-logo-link-position);
     top: var(--header-logo-link-top);
