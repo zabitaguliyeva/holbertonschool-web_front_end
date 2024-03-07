@@ -463,7 +463,7 @@ html {
     top: var(--header-logo-link-top);
     left: var(--header-logo-link-left); 
   }
-  nav .nav-link::before{
+  .nav .nav-link::before{
     content:"";
     position: absolute;
     top: 0;
@@ -475,7 +475,7 @@ html {
 
   }
 
-  nav nav-item:hover .nav-link::before{
+  .nav .nav-item:hover .nav-link::before{
     background-color: var(--color-primary);
     width: 100%;
   }
