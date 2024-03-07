@@ -424,7 +424,7 @@ html {
 
   }
   .card-testimonial .card-avatar{
-    border-radius: 50%;
+    border-radius: 0.5rem;
     width: 10rem;
     height: 10rem;
   }
