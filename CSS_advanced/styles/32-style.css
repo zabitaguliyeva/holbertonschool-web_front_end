@@ -499,10 +499,11 @@ html {
     left: -0.1rem;
     right: -0.1rem;
     z-index: 1;
+    transition: var(–-transition-duration) var(--transition-cubic-bezier);
   }
   .card-work:hover .card-inner{
     background-color: rgba(0, 0, 0, 0.7);
-    transition: var(–-transition-duration) var(--transition-cubic-bezier);
+   
   }
   .card-work .card-title{
     text-align: center;
@@ -546,7 +547,6 @@ z-index: -1;
  }
  .card-work:hover .card-outer{
     transform: scale(0.95);
-
  }
  .nav .nav-link::before{
     transition: var(–-transition-duration) var(--transition-cubic-bezier);
